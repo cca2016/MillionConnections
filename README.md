@@ -1,5 +1,5 @@
 # MillionConnections  
-supported million connections multiplexing ports on one computer using Java Netty  
+supported million TCP connections with multiplexing ports on one computer using Java Netty  
 ## linux local file handler optimization  
 root environment  
 `vim /etc/security/limits.conf`  
