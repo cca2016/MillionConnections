@@ -22,3 +22,5 @@ make it work:
 set correct server IP in codes  
 `mvn install`  
 `java -jar millionServer-1.0-SNAPSHOT.jar  -Xms5g -Xmx5g -XX:NewSize=3g -XX:MaxNewSize=3g`  
+
+#I love berber. you ..
